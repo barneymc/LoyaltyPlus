@@ -1,0 +1,63 @@
+TTableViewNav
+v7
+r1
+
+N/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.xib
+c000000004BA9BFF20000000000001ACD
+t1269415922
+s6861
+
+N/Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.xib
+c000000004BA9D58E0000000000002384
+t1269421454
+s9092
+
+N/Users/Amrita/Documents/TableViewNav/MainWindow.xib
+c000000004BA9C3980000000000002BBC
+t1269416856
+s11196
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug/TableViewNav.app
+t2
+s0
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug/TableViewNav.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug/TableViewNav.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug/TableViewNav.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug/TableViewNav.app/Contents/Resources/RootViewController.nib
+t2
+s0
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug/TableViewNav.app/Contents/Resources/TableViewDetailViewController.nib
+t2
+s0
+
+NTableViewNav-Info.plist
+c000000004BA9B7FA000000000000038D
+t1269413882
+s909
+
+CCompileXIB /Users/Amrita/Documents/TableViewNav/Classes/RootViewController.xib
+r0
+
+CCompileXIB /Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.xib
+r0
+
+CCompileXIB /Users/Amrita/Documents/TableViewNav/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/Amrita/Documents/TableViewNav/build/Debug/TableViewNav.app/Contents/Info.plist TableViewNav-Info.plist
+r0
+
+CTouch /Users/Amrita/Documents/TableViewNav/build/Debug/TableViewNav.app
+r0
+

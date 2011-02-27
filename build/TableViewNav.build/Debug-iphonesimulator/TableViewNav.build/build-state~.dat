@@ -1,0 +1,308 @@
+TTableViewNav
+v7
+r0
+t299154128.000956
+cCheck dependencies
+cProcessInfoPlistFile /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/Info.plist TableViewNav-Info.plist
+cCompileXIB /Users/Amrita/Documents/TableViewNav/MainWindow.xib
+cCompileXIB /Users/Amrita/Documents/TableViewNav/Classes/RootViewController.xib
+cCompileXIB /Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.xib
+cProcessPCH /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewNav_Prefix-erhoblyvzfxwazaoeeyflehkrqnt/TableViewNav_Prefix.pch.gch TableViewNav_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/main.o /Users/Amrita/Documents/TableViewNav/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewNavAppDelegate.o /Users/Amrita/Documents/TableViewNav/Classes/TableViewNavAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/RootViewController.o /Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewDetailViewController.o /Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewNav normal i386
+cGenerateDSYMFile /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app.dSYM /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewNav
+cTouch /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C120D340000000000000132
+t1276251444
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.h
+c000000004BC06D500000000000000110
+t1270902096
+s272
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m
+c000000004C24834D0000000000001295
+t1277461325
+s4757
+i"RootViewController.h"
+i"TableViewNavAppDelegate.h"
+i"TableViewDetailViewController.h"
+
+N/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.xib
+c000000004BA9BFF20000000000001ACD
+t1269415922
+s6861
+
+N/Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.h
+c000000004BE01ACD0000000000000174
+t1272978125
+s372
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.m
+c000000004BC06D3F0000000000000663
+t1270902079
+s1635
+i"TableViewDetailViewController.h"
+
+N/Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.xib
+c000000004BA9D58E0000000000002384
+t1269421454
+s9092
+
+N/Users/Amrita/Documents/TableViewNav/Classes/TableViewNavAppDelegate.h
+c000000004BC06D3900000000000001DE
+t1270902073
+s478
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/TableViewNav/Classes/TableViewNavAppDelegate.m
+c000000004BC06D330000000000000242
+t1270902067
+s578
+i"TableViewNavAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/Amrita/Documents/TableViewNav/MainWindow.xib
+c000000004BA9C3980000000000002BBC
+t1269416856
+s11196
+
+N/Users/Amrita/Documents/TableViewNav/TableViewNav_Prefix.pch
+c000000004BA9B7FA00000000000000C1
+t1269413882
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app
+t1277461327
+s272
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app.dSYM
+t1277461327
+s102
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/Info.plist
+t1277461325
+s611
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/MainWindow.nib
+t1277461325
+s1490
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/PkgInfo
+t1277461325
+s8
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/RootViewController.nib
+t1277461325
+s979
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewDetailViewController.nib
+t1277461326
+s1383
+
+N/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewNav
+t1277461327
+s23908
+
+N/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/RootViewController.o
+t1277461327
+s44320
+
+N/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewDetailViewController.o
+t1277461327
+s37428
+
+N/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewNav.LinkFileList
+c000000004BA9C3A60000000000000242
+t1269416870
+s578
+
+N/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewNavAppDelegate.o
+t1277461327
+s47104
+
+N/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/main.o
+t1277461327
+s6300
+
+N/Users/Amrita/Documents/TableViewNav/main.m
+c000000004BA9B7FA0000000000000177
+t1269413882
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewNav_Prefix-erhoblyvzfxwazaoeeyflehkrqnt/TableViewNav_Prefix.pch.gch
+t1277461327
+s15232016
+
+NTableViewNav-Info.plist
+c000000004BA9B7FA000000000000038D
+t1269413882
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299154125#299154125#0(0"0(0#1#0"8627154176#0"0#
+
+CCompileC build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/RootViewController.o /Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299154127.723903
+e299154127.824306
+r1
+xCompileC
+xbuild/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/RootViewController.o
+x/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m:79: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@73"Compile /Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m299154127#299154127#0(411"/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m:79: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)1(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)299154127#137#274#0(6@65"/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m299154125#79#0#79#0#33"'*' is deprecated (declared at *)0(0#0#65"/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m8607831648#2015"    cd /Users/Amrita/Documents/TableViewNav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-generated-files.hmap -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-own-target-headers.hmap -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-all-target-headers.hmap -iquote /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-project-headers.hmap -F/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator -I/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/DerivedSources/i386 -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewNav_Prefix-erhoblyvzfxwazaoeeyflehkrqnt/TableViewNav_Prefix.pch -c /Users/Amrita/Documents/TableViewNav/Classes/RootViewController.m -o /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewDetailViewController.o /Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299154127.725175
+e299154127.809556
+r1
+xCompileC
+xbuild/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewDetailViewController.o
+x/Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.m299154127#299154127#0(0"0(0#0#76"/Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.m8634777504#2037"    cd /Users/Amrita/Documents/TableViewNav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-generated-files.hmap -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-own-target-headers.hmap -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-all-target-headers.hmap -iquote /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-project-headers.hmap -F/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator -I/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/DerivedSources/i386 -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewNav_Prefix-erhoblyvzfxwazaoeeyflehkrqnt/TableViewNav_Prefix.pch -c /Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.m -o /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewDetailViewController.o0#
+
+CCompileC build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewNavAppDelegate.o /Users/Amrita/Documents/TableViewNav/Classes/TableViewNavAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299154127.615298
+e299154127.725089
+r1
+xCompileC
+xbuild/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewNavAppDelegate.o
+x/Users/Amrita/Documents/TableViewNav/Classes/TableViewNavAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/Amrita/Documents/TableViewNav/Classes/TableViewNavAppDelegate.m299154127#299154127#0(0"0(0#0#70"/Users/Amrita/Documents/TableViewNav/Classes/TableViewNavAppDelegate.m8603935552#2025"    cd /Users/Amrita/Documents/TableViewNav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-generated-files.hmap -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-own-target-headers.hmap -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-all-target-headers.hmap -iquote /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-project-headers.hmap -F/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator -I/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/DerivedSources/i386 -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewNav_Prefix-erhoblyvzfxwazaoeeyflehkrqnt/TableViewNav_Prefix.pch -c /Users/Amrita/Documents/TableViewNav/Classes/TableViewNavAppDelegate.m -o /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewNavAppDelegate.o0#
+
+CCompileC build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/main.o /Users/Amrita/Documents/TableViewNav/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299154127.614068
+e299154127.723790
+r1
+xCompileC
+xbuild/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/main.o
+x/Users/Amrita/Documents/TableViewNav/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/Amrita/Documents/TableViewNav/main.m299154127#299154127#0(0"0(0#0#43"/Users/Amrita/Documents/TableViewNav/main.m8606456224#1979"    cd /Users/Amrita/Documents/TableViewNav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-generated-files.hmap -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-own-target-headers.hmap -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-all-target-headers.hmap -iquote /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-project-headers.hmap -F/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator -I/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/DerivedSources/i386 -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/DerivedSources -include /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewNav_Prefix-erhoblyvzfxwazaoeeyflehkrqnt/TableViewNav_Prefix.pch -c /Users/Amrita/Documents/TableViewNav/main.m -o /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Amrita/Documents/TableViewNav/Classes/RootViewController.xib
+s299154125.479063
+e299154125.939999
+r1
+xCompileXIB
+x/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.xib
+lSLF07#2@41"CompileXIB Classes/RootViewController.xib299154125#299154125#0(0"0(0#0#67"/Users/Amrita/Documents/TableViewNav/Classes/RootViewController.xib8628411200#593"    cd /Users/Amrita/Documents/TableViewNav    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/RootViewController.nib /Users/Amrita/Documents/TableViewNav/Classes/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.xib
+s299154125.940099
+e299154126.375755
+r1
+xCompileXIB
+x/Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.xib
+lSLF07#2@52"CompileXIB Classes/TableViewDetailViewController.xib299154125#299154126#0(0"0(0#0#78"/Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.xib8606439392#615"    cd /Users/Amrita/Documents/TableViewNav    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewDetailViewController.nib /Users/Amrita/Documents/TableViewNav/Classes/TableViewDetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/Amrita/Documents/TableViewNav/MainWindow.xib
+s299154125.478277
+e299154125.979328
+r1
+xCompileXIB
+x/Users/Amrita/Documents/TableViewNav/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib299154125#299154125#0(0"0(0#0#51"/Users/Amrita/Documents/TableViewNav/MainWindow.xib8630184768#569"    cd /Users/Amrita/Documents/TableViewNav    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/MainWindow.nib /Users/Amrita/Documents/TableViewNav/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app.dSYM /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewNav
+s299154127.972536
+e299154127.996047
+r1
+xGenerateDSYMFile
+x/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app.dSYM
+x/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewNav
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/TableViewNav.app.dSYM build/Debug-iphonesimulator/TableViewNav.app/TableViewNav299154127#299154127#0(0"0(0#0#94"/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewNav8609528800#392"    cd /Users/Amrita/Documents/TableViewNav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewNav -o /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app.dSYM0#
+
+CLd /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewNav normal i386
+s299154127.824405
+e299154127.972427
+r1
+xLd
+x/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewNav
+xnormal
+xi386
+lSLF07#2@99"Link /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewNav299154127#299154127#0(0"0(0#0#0"8626760224#915"    cd /Users/Amrita/Documents/TableViewNav    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator -F/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator -filelist /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/Objects-normal/i386/TableViewNav.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/TableViewNav0#
+
+CProcessInfoPlistFile /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/Info.plist TableViewNav-Info.plist
+s299154125.474649
+e299154125.478193
+r1
+xProcessInfoPlistFile
+x/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/Info.plist
+xTableViewNav-Info.plist
+lSLF07#2@31"Process TableViewNav-Info.plist299154125#299154125#0(0"0(0#0#60"/Users/Amrita/Documents/TableViewNav/TableViewNav-Info.plist8634197536#488"    cd /Users/Amrita/Documents/TableViewNav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TableViewNav-Info.plist -genpkginfo /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app/Info.plist0#
+
+CProcessPCH /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewNav_Prefix-erhoblyvzfxwazaoeeyflehkrqnt/TableViewNav_Prefix.pch.gch TableViewNav_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s299154126.375892
+e299154127.613814
+r1
+xProcessPCH
+x/var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewNav_Prefix-erhoblyvzfxwazaoeeyflehkrqnt/TableViewNav_Prefix.pch.gch
+xTableViewNav_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TableViewNav_Prefix.pch299154126#299154127#0(0"0(0#0#60"/Users/Amrita/Documents/TableViewNav/TableViewNav_Prefix.pch8608690432#1868"    cd /Users/Amrita/Documents/TableViewNav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-generated-files.hmap -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-own-target-headers.hmap -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-all-target-headers.hmap -iquote /Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/TableViewNav-project-headers.hmap -F/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator -I/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/include -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/DerivedSources/i386 -I/Users/Amrita/Documents/TableViewNav/build/TableViewNav.build/Debug-iphonesimulator/TableViewNav.build/DerivedSources -c /Users/Amrita/Documents/TableViewNav/TableViewNav_Prefix.pch -o /var/folders/Ix/Ixt-AUniFJ0+ciCCy+GXh++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewNav_Prefix-erhoblyvzfxwazaoeeyflehkrqnt/TableViewNav_Prefix.pch.gch0#
+
+CTouch /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app
+s299154127.996144
+e299154128.000911
+r1
+xTouch
+x/Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app
+lSLF07#2@87"Touch /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app299154127#299154128#0(0"0(0#0#0"8608698048#279"    cd /Users/Amrita/Documents/TableViewNav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Amrita/Documents/TableViewNav/build/Debug-iphonesimulator/TableViewNav.app0#
+
